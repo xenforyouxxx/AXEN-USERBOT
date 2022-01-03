@@ -35,7 +35,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 ## Updates dan support
 
-Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
+Follow Channel [@insecurelyboy](https://t.me/insecurelyboy) untuk info Update bot dan Gabung Group [@unityinhere](https://t.me/unityinhere) untuk untuk diskusi, pelaporan bug, dan bantuan tentang AXEN-USERBOT.
 
 ## © Credits
 #### Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
