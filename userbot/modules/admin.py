@@ -3,9 +3,9 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @xenforyouxxx
+# FROM AXEN-USERBOT <https://github.com/xenforyouxxx/AXEN-USERBOT>
+# t.me/unityinhere & t.me/insecurelyboy
 
 import logging
 from asyncio import sleep
