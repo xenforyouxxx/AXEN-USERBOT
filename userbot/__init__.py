@@ -200,19 +200,19 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 
 # untuk perintah teks costum .alive
-ALIVE_TEKS_CUSTOM = os.environ.get("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
+ALIVE_TEKS_CUSTOM = os.environ.get("ALIVE_TEKS_CUSTOM", "Hey babi, saya sudah aktif.")
 
 # Default .alive name
-ALIVE_NAME = os.environ.get("ALIVE_NAME", "Man")
+ALIVE_NAME = os.environ.get("ALIVE_NAME", "Xen")
 
 # Custom Emoji Alive
-ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "⚡️")
+ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "🔥")
 
 # Custom Emoji Alive
 INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "✘")
 
 # Custom icon HELP
-ICON_HELP = os.environ.get("ICON_HELP", "❉")
+ICON_HELP = os.environ.get("ICON_HELP", "☩")
 
 # Time & Date - Country and Time Zone
 COUNTRY = str(os.environ.get("COUNTRY", "ID"))
@@ -228,7 +228,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Man-Userbot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "AXEN-USERBOT")
 
 # Bot version
 BOT_VER = os.environ.get("BOT_VER", "2.1.2")
