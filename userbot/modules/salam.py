@@ -12,10 +12,10 @@ async def _(event):
 
 @man_cmd(pattern="pe(?: |$)(.*)")
 async def _(event):
-    await edit_or_reply(event, "**Assalamualaikum Warahmatullahi Wabarakatuh**")
+    await edit_or_reply(event, "**HAI BAJINGAN, SHALOM!**")
 
 
-@man_cmd(pattern="P(?: |$)(.*)")
+@man_cmd(pattern="s(?: |$)(.*)")
 async def _(event):
     xx = await edit_or_reply(event, f"**Haii Salken Saya {owner}**")
     sleep(2)
@@ -24,14 +24,14 @@ async def _(event):
 
 @man_cmd(pattern="l(?: |$)(.*)")
 async def _(event):
-    await edit_or_reply(event, "**Wa'alaikumsalam**")
+    await edit_or_reply(event, "**YE SHALOM.**")
 
 
 @man_cmd(pattern="a(?: |$)(.*)")
 async def _(event):
     xx = await edit_or_reply(event, f"**Haii Salken Saya {owner}**")
     sleep(2)
-    await xx.edit("**Assalamualaikum**")
+    await xx.edit("**SHALOM DULU KATA YESUS**")
 
 
 @man_cmd(pattern="j(?: |$)(.*)")
@@ -48,11 +48,11 @@ async def _(event):
     await xx.edit("**LU SEMUA NGENTOTTTT 🔥**")
 
 
-@man_cmd(pattern="ass(?: |$)(.*)")
+@man_cmd(pattern="y(?: |$)(.*)")
 async def _(event):
-    xx = await edit_or_reply(event, "**Salam Dulu Biar Sopan**")
+    xx = await edit_or_reply(event, "**NORAK GOBLOKK**")
     sleep(2)
-    await xx.edit("**السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ**")
+    await xx.edit("**ALAY BANGET NGENTOT MAEN BOT MULU**")
 
 
 CMD_HELP.update(
