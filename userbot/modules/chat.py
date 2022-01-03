@@ -128,7 +128,7 @@ async def kikme(leave):
         return await edit_or_reply(
             leave, "**Perintah ini Dilarang digunakan di Group ini**"
         )
-    await edit_or_reply(leave, "**GC NYA JELEK GOBLOK KELUAR DULU AH CROTT** 🥴")
+    await edit_or_reply(leave, "**INI GC APAAN ANJGG JELEK BANGETT, KELUAR AJALAH** 🥴")
     await leave.client.kick_participant(leave.chat_id, "me")
 
 
@@ -579,7 +579,7 @@ CMD_HELP.update(
         \n\n  •  **Syntax :** `{cmd}leave`\
         \n  •  **Function : **Keluar grup dengan menampilkan pesan Master Telah Meninggalkan Grup, bye !!\
         \n\n  •  **Syntax :** `{cmd}kikme`\
-        \n  •  **Function : **Keluar grup dengan menampilkan pesan GC NYA JELEK GOBLOK KELUAR DULU AH CROTT 🥴\
+        \n  •  **Function : **Keluar grup dengan menampilkan pesan INI GC APAAN ANJGG JELEK BANGETT, KELUAR AJALAH 🥴\
     "
     }
 )
@@ -590,7 +590,7 @@ CMD_HELP.update(
         "link": f"**Plugin : **`link`\
         \n\n  •  **Syntax :** `{cmd}link` <username/userid> <opsional teks> (atau) Reply pesan .link <teks opsional>\
         \n  •  **Function : **Membuat link permanen ke profil pengguna dengan teks ubahsuaian opsional.\
-        \n  •  **Contoh : **{cmd}link @mrismanaziz Ganteng\
+        \n  •  **Contoh : **{cmd}link @xenforyouxxx Ganteng\
     "
     }
 )
