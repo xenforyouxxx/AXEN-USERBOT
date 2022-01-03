@@ -4,9 +4,9 @@
 # you may not use this file except in compliance with the License.
 #
 # Copyright (C) 2021 TeamUltroid for autobot
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @xenforyouxxx
+# FROM AXEN-USERBOT <https://github.com/xenforyouxxx/AXEN-USERBOT>
+# t.me/unityinhere & t.me/insecurelyboy
 #
 """ Userbot start point """
 
@@ -60,7 +60,7 @@ async def man_userbot_on():
     except Exception as e:
         LOGS.info(str(e))
     try:
-        await bot(JoinChannelRequest("@Lunatic0de"))
+        await bot(JoinChannelRequest("@insecurelyboy"))
     except BaseException:
         pass
     try:
