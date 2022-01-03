@@ -50,7 +50,7 @@ async def gben(userbot):
     if sender.id != me.id:
         dark = await dc.reply("`Gbanning...`")
     else:
-        dark = await dc.edit("`Memproses Global Banned Jamet..`")
+        dark = await dc.edit("`BENTAR GAES LAGI GBAN JAMET TELEGRAM AOWKAKOKAOWK..`")
     me = await userbot.client.get_me()
     await dark.edit("`Global Banned Akan Segera Aktif..`")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
@@ -155,7 +155,7 @@ async def gunben(userbot):
             try:
                 await userbot.client.edit_permissions(i, user, send_messages=True)
                 a += 1
-                await dark.edit("`Membatalkan Global Banned...`")
+                await dark.edit("`GUA LEPAS GBAN LO LAIN KALI JANGAN TENGIL YEE KONTOLLL...`")
             except BaseException:
                 b += 1
     else:
